@@ -16,18 +16,18 @@ This is a dataset of all the competitors in UCI's Financial Literacy Association
 
 Information about the dataset:
 
-    -Major: their major of study
-    {Business, Biology, Undeclared, Social Studies, Computer Science, Engineering}
+    -Major: Their major of study
+        {Business, Biology, Undeclared, Social Studies, Computer Science, Engineering}
   
-    -Year: their graduation year
-    {1st, 2nd, 3rd, 4th, 5 (graduated)}
+    -Year: Their graduation year
+        {1st, 2nd, 3rd, 4th, 5 (graduated)}
   
-    -Investing Knowledge: how familiar with investing is the competitor
-    {1, 2, 3, 4, 5} (novice, beginner, intermediate, expert, master)
+    -Investing Knowledge: How familiar with investing is the competitor
+        {1, 2, 3, 4, 5} (novice, beginner, intermediate, expert, master)
   
     -Marketing Impression: How did competitor find out about the competition
-    {Instagram, Fairs (in-person boothing at club fairs), Discord, Friend (word of mouth), Merage School (promotions from business school), FLA (members from FLA), Flyers, Internet (self-sought)}
+        {Instagram, Fairs (in-person boothing at club fairs), Discord, Friend (word of mouth), Merage School (promotions from business school), FLA (members from FLA), Flyers, Internet (self-sought)}
   
-    -Timestamp: when they signed up
-    {date:time}
+    -Timestamp: When they signed up
+        {date:time}
 
