@@ -4,6 +4,7 @@
 This is a dataset of all the competitors in UCI's Financial Literacy Association's (FLA) Stock Market Competition (SMC). We want to analyze:
     
     1. Trends in competitor demographics
+    
     2. Success in reaching organization's goals
       a. Target diverse pool of majors
 
