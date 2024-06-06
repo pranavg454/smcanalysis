@@ -10,6 +10,7 @@ This is a dataset of all the competitors in UCI's Financial Literacy Association
   4. effectiveness in marketing strategies
 
 Information about the dataset:
+
   -Major: {Business, Biology, Undeclared, Social Studies, Computer Science, Engineering}
   -Year: {1st, 2nd, 3rd, 4th, 5 (graduated)}
   -Investing Knowledge: {1, 2, 3, 4, 5} (novice, beginner, intermediate, expert, master)
